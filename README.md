@@ -8,4 +8,5 @@
 - [004【广州】晓教育-前端工程师](https://github.com/xrr2016/Interview-experience-share/issues/7)
 
 联系群主加入微信面试经验交流群
-![xrr20160808](./coldstone.png)
+
+<img src="./coldstone.png" width="1240" style="width: 240px;" alt="xrr20160808">
