@@ -9,4 +9,6 @@
 
 联系群主加入微信面试经验交流群
 
-<img src="coldstone.png" width="1240" alt="xrr20160808" style="width: 240px;">
+<div style="width: 240px;">
+  <img src="coldstone.png" width="1240" alt="xrr20160808">
+</div>
